@@ -1,0 +1,19 @@
+  _   _  __  __  ____    _        ___    ____       _    
+ | | | | \ \/ / |  _ \  | |      / _ \  |  _ \     / \   
+ | | | |  \  /  | |_) | | |     | | | | | |_) |   / _ \  
+ | |_| |  /  \  |  __/  | |___  | |_| | |  _ <   / ___ \ 
+  \___/  /_/\_\ |_|     |_____|  \___/  |_| \_\ /_/   \_\
+  =============                                                         
+
+
+/* TEAM */
+	Armando Fidalgo
+	Dani Armengol (@darmng)
+	José Vittone (@josevittone)
+
+/* THANKS TO */
+	A todo el equipo de @Usolab
+
+/* SITE */
+	Language:Castellano
+	Doctype:HTML5
